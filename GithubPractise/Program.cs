@@ -14,6 +14,7 @@ namespace GithubPractise
             calci calci = new calci();
             Console.WriteLine("ADD is -> "+calci.add(10,20));
             Console.WriteLine("hello world");
+            Console.WriteLine("Sub is ->"+calci.sub(110,20));
         }
     }
 }
